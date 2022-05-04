@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=gabrieloureiro&color=006bed)
 
 <h3> :man: &nbsp;About me </h3>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 🎓 &nbsp; **Computer Scientist** by <a href="https://www.linkedin.com/school/ufcinforma/">FEDERAL UNIVERSITY OF CEARA (UFC)</a>.
 - 💼 &nbsp; **↑ React ↑ Senior Frontend Engineer** at <a href="https://www.linkedin.com/company/platformbuilders/mycompany/">Builders</a>
