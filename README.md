@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=gabrieloureiro&color=006bed)
 
-<h3> :men: &nbsp;About me </h3>
+<h3> :man: &nbsp;About me </h3>
 
 - 🎓 &nbsp; **Computer Scientist** by <a href="link da sua faculdade">FEDERAL UNIVERSITY OF CEARA (UFC).</a>.
 - 💼 &nbsp; **↑ React ↑ Senior Frontend Engineer** at <a href="LINK DA EMPRESA">Builders</a>
