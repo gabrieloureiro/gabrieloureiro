@@ -3,8 +3,8 @@
 
 <h3> :man: &nbsp;About me </h3>
 
-- 🎓 &nbsp; **Computer Scientist** by <a href="link da sua faculdade">FEDERAL UNIVERSITY OF CEARA (UFC).</a>.
-- 💼 &nbsp; **↑ React ↑ Senior Frontend Engineer** at <a href="LINK DA EMPRESA">Builders</a>
+- 🎓 &nbsp; **Computer Scientist** by <a href="https://www.linkedin.com/school/ufcinforma/">FEDERAL UNIVERSITY OF CEARA (UFC)</a>.
+- 💼 &nbsp; **↑ React ↑ Senior Frontend Engineer** at <a href="https://www.linkedin.com/company/platformbuilders/mycompany/">Builders</a>
 
 <h3> :rocket: &nbsp; Skills </h3>
 
