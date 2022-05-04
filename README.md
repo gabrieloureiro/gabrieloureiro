@@ -6,9 +6,9 @@
 - 🎓 &nbsp; **Computer Scientist** by <a href="https://www.linkedin.com/school/ufcinforma/">FEDERAL UNIVERSITY OF CEARA (UFC)</a>.
 - 💼 &nbsp; **↑ React ↑ Senior Frontend Engineer** at <a href="https://www.linkedin.com/company/platformbuilders/mycompany/">Builders</a>
 
-<h3> :rocket: &nbsp; Skills </h3>
+<h3> :rocket: &nbsp; Technologies </h3>
 
-**Aplicações e Dados**
+**Applications and data**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
@@ -19,19 +19,17 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-**Utilidades**
+**Utils**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 
-**Ferramentas de Desenvolvimento**
+**Development tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -45,8 +43,9 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where find me: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/gabrieloureiro?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: gabrieloureiro](https://img.shields.io/badge/-gabrieloureiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloureiro/)](https://www.linkedin.com/in/gabrieloureiro/)
+[![Gmail Badge](https://img.shields.io/badge/-gabrieloureirof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieloureirof@gmail.com)](mailto:gabrieloureirof@gmail.com)
+[![GitHub gabrieloureiro](https://img.shields.io/github/followers/gabrieloureiro?label=follow&style=social)](LINK-https://github.com/gabrieloureiro/-SEU-GITHUB)
+
