@@ -8,7 +8,7 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=993399)
 
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   
