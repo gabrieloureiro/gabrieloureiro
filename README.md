@@ -1,12 +1,5 @@
 # Gabriel Loureiro
 
-
-<a href="https://github.com/gabrieloureiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieloureiro&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: gabrieloureiro](https://img.shields.io/badge/-gabrieloureiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloureiro/)](https://www.linkedin.com/in/gabrieloureiro/)
