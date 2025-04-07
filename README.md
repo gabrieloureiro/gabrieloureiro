@@ -5,10 +5,11 @@
 ![](https://komarev.com/ghpvc/?username=gabrieloureiro&color=006bed)
 
 <a href="https://github.com/gabrieloureiro">
-  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieloureiro&layout=compact&show_icons=true&theme=synthwave&hide=Jupyter%20Notebook,c%2B%2B,Fortran,C,CMake,java,cuda,python" />
+  <img align="center" height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieloureiro&layout=compact&show_icons=true&theme=synthwave&hide=Jupyter%20Notebook,c%2B%2B,Fortran,C,CMake,java,cuda,python" />
 </a>
+
 <a href="https://github.com/gabrieloureiro">
-  <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloureiro&theme=synthwave" />
+  <img align="center" height="200" width="416" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieloureiro&theme=synthwave" />
 </a>
 
 <a href="https://github.com/gabrieloureiro">
